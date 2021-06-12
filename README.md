@@ -17,6 +17,6 @@
 
 ![image](https://user-images.githubusercontent.com/85642728/121784843-fdf74e80-cbbe-11eb-8016-5a63946c16ed.png)
 
-Завантажування файлу
+Завантаження файлу
 
 ![image](https://user-images.githubusercontent.com/85642728/121784849-08b1e380-cbbf-11eb-93d0-c5fabf3b783b.png)
