@@ -47,3 +47,8 @@
 Завантаження файлу
 
 ![image](https://user-images.githubusercontent.com/85642728/122669799-a7de6880-d1c7-11eb-95cf-d90bade6364f.png)
+
+Результат виконання програми
+
+![image](https://user-images.githubusercontent.com/85642728/122670136-11ab4200-d1c9-11eb-9ed8-786e2e2e1511.png)
+
