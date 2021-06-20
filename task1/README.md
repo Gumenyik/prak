@@ -24,7 +24,7 @@
 
 ![image](https://user-images.githubusercontent.com/85642728/122669694-34d4f200-d1c7-11eb-99d7-f37f28e4767f.png)
 
-Додавання файлу task1 і переміщення в папку task1
+Додавання файлу prak2 і переміщення в папку task1
 
 ![image](https://user-images.githubusercontent.com/85642728/122669741-65b52700-d1c7-11eb-9b73-07392fc378c8.png)
 
