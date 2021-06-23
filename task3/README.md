@@ -1,22 +1,9 @@
-# prak
-1 варіант
+# task3
 
-Клонування репозиторія
+![image](https://user-images.githubusercontent.com/85642728/123114945-601a4400-d448-11eb-8430-44083829c38e.png)
 
-![image](https://user-images.githubusercontent.com/85642728/121784573-59c0d800-cbbd-11eb-8c97-2dc2ce46c3d0.png)
+В пусте поле можна ввести країну з Європи і після натиснення кнопки update оновлюються дані
 
-Перехід до prak
+![image](https://user-images.githubusercontent.com/85642728/123114831-45e06600-d448-11eb-8bd7-974ae26d790e.png)
 
-![image](https://user-images.githubusercontent.com/85642728/121784829-eddf6f00-cbbe-11eb-9788-d42266f68c26.png)
-
-Додавання файлу 
-
-![image](https://user-images.githubusercontent.com/85642728/121784837-f637aa00-cbbe-11eb-90d5-34af4e7cfd9d.png)
-
-Підтвердження змін
-
-![image](https://user-images.githubusercontent.com/85642728/121784843-fdf74e80-cbbe-11eb-8016-5a63946c16ed.png)
-
-Завантаження файлу
-
-![image](https://user-images.githubusercontent.com/85642728/121784849-08b1e380-cbbf-11eb-93d0-c5fabf3b783b.png)
+![image](https://user-images.githubusercontent.com/85642728/123115345-b7201900-d448-11eb-81dc-d3f980c4a67c.png)
