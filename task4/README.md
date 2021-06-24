@@ -1,22 +1,11 @@
-# prak
-1 варіант
+# task4
+Бот: t.me/boryslavskybot
 
-Клонування репозиторія
+![image](https://user-images.githubusercontent.com/85642728/123317014-35a6b480-d536-11eb-8457-9b6e8c3c5ed1.png)
 
-![image](https://user-images.githubusercontent.com/85642728/121784573-59c0d800-cbbd-11eb-8c97-2dc2ce46c3d0.png)
+![image](https://user-images.githubusercontent.com/85642728/123317098-4a834800-d536-11eb-8818-a36b6e7d802b.png)
 
-Перехід до prak
 
-![image](https://user-images.githubusercontent.com/85642728/121784829-eddf6f00-cbbe-11eb-9788-d42266f68c26.png)
+![image](https://user-images.githubusercontent.com/85642728/123317044-3f301c80-d536-11eb-9734-40ae6e3e6ae0.png)
 
-Додавання файлу 
-
-![image](https://user-images.githubusercontent.com/85642728/121784837-f637aa00-cbbe-11eb-90d5-34af4e7cfd9d.png)
-
-Підтвердження змін
-
-![image](https://user-images.githubusercontent.com/85642728/121784843-fdf74e80-cbbe-11eb-8016-5a63946c16ed.png)
-
-Завантаження файлу
-
-![image](https://user-images.githubusercontent.com/85642728/121784849-08b1e380-cbbf-11eb-93d0-c5fabf3b783b.png)
+![image](https://user-images.githubusercontent.com/85642728/123317145-55d67380-d536-11eb-8f0c-60149d7eefaa.png)
